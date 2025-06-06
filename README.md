@@ -52,7 +52,7 @@ Through a combination of lectures, assignments, and journal club presentations, 
 ## 🧑‍🏫 Instructor
 
 - **Prof. Daniel Haehn**, UMass Boston  
-- 📍 [UMass Boston Computer Science Department](https://danielhaehn.com/)
+- 📍 https://danielhaehn.com/
 
 ---
 
